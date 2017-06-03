@@ -1,0 +1,24 @@
+body {
+  font-family: 'Lato', sans-serif;
+  color: red;
+}
+header{
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+body{
+  background-image: url(https://coding-days.com/wp-content/uploads/2017/01/background_white.png);
+  background-size: cover;
+  color:#2028a2;
+  font-famly:'Lato';
+}
+article{
+  text-align: center;
+}
+li {
+    list-style-type: none;
+}
+.carte_de_visite{
+  background-color: gray);
+}
